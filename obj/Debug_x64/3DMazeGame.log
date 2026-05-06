@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Game.cpp
+  Camera.cpp
+  Renderer.cpp
+  Input.cpp
+  Lighting.cpp
+  TextureLoader.cpp
+  Collision.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

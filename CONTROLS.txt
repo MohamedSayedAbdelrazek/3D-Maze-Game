@@ -1,0 +1,50 @@
+========================================
+   3D Maze Game — Controls Reference
+========================================
+
+MOVEMENT:
+  W  /  Up Arrow      Move forward
+  S  /  Down Arrow    Move backward
+  A  /  Left Arrow    Strafe left
+  D  /  Right Arrow   Strafe right
+
+CAMERA:
+  Mouse Movement      Look around (FPS-style)
+                      Horizontal = turn left/right
+                      Vertical   = look up/down
+
+ACTIONS:
+  Space               Fire projectile
+
+TOGGLES:
+  Q                   Toggle wireframe / solid mode
+  C                   Toggle wall collision on / off
+  L                   Toggle lighting on / off
+  T                   Toggle textures on / off
+
+SYSTEM:
+  ESC                 Exit the game
+
+========================================
+   Gameplay
+========================================
+
+OBJECTIVE:
+  Navigate through the 3D maze and reach
+  the golden pulsing cube (the goal).
+
+COLLECTIBLES:
+  Pick up the rotating red cubes scattered
+  throughout the maze for points.
+
+TIPS:
+  - Use the mouse to look around corners
+    before moving.
+  - Press C to disable collision if you
+    get stuck (useful for debugging).
+  - Press L to toggle lighting for a
+    different visual experience.
+  - The golden goal cube pulses and glows
+    to help you find it.
+
+========================================
